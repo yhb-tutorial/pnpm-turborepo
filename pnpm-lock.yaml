@@ -10,6 +10,9 @@ importers:
 
   apps/web:
     dependencies:
+      '@hb/tool':
+        specifier: workspace:^
+        version: link:../../packages/tool
       vue:
         specifier: ^3.3.13
         version: 3.3.13(typescript@5.3.3)
