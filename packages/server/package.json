@@ -1,10 +1,10 @@
 {
-  "name": "server",
+  "name": "@hb/server",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"tool: server\""
+    "test": "sleep 3 && echo \"server: test6\""
   },
   "keywords": [],
   "author": "",

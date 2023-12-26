@@ -4,9 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"tool: test\""
+    "test": "sleep 3 && echo \"tool: test6\""
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@hb/server": "workspace:^"
+  }
 }

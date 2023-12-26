@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"tool: web\""
+    "test": "sleep 3 && echo \"web: test6\""
   },
   "keywords": [],
   "author": "",
