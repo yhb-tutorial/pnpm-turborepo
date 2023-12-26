@@ -4,13 +4,13 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "sleep 3 && echo \"web: test6\""
+    "test": "sleep 3 && echo \"web: test\""
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "@hb/tool": "workspace:^",
+    "ui": "workspace:^",
     "vue": "^3.3.13"
   }
 }

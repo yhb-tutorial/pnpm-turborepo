@@ -1,15 +1,12 @@
 {
-  "name": "@hb/tool",
+  "name": "utils",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "sleep 3 && echo \"tool: test6\""
+    "test": "sleep 3 && echo \"utils: test\""
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
-  "dependencies": {
-    "@hb/server": "workspace:^"
-  }
+  "license": "ISC"
 }

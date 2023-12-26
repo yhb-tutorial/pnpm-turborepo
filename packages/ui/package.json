@@ -1,12 +1,15 @@
 {
-  "name": "@hb/server",
+  "name": "ui",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "sleep 3 && echo \"server: test6\""
+    "test": "sleep 3 && echo \"utils: ui\""
   },
   "keywords": [],
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "utils": "workspace:^"
+  }
 }
